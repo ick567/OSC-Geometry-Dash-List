@@ -1,0 +1,49 @@
+{
+    "id": 114378573,
+    "name": "Two Boss Fight",
+    "author": "ALDTne", 
+    "creators": ["ALDTne"],
+    "verifier": "ALDTne",
+    "verification": "https://youtu.be/NVHvFRVyKtE",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "vel0c17y",
+            "link": "https://www.youtube.com/watch?v=QinL8MECigU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JustacheemsDoge",
+            "link": "https://www.youtube.com/watch?v=HUvL4xC0Rng",
+            "percent": 100,
+            "hz": 321
+        },
+        {
+            "user": "quesoazul",
+            "link": "https://www.youtube.com/watch?v=Q4toP7I_sik",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "WhiteEmerald",
+            "link": "https://www.youtube.com/watch?v=47wg7B-E45Q",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Frogs65",
+            "link": "https://www.youtube.com/watch?v=1I4CxfiyjjY",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "JCTheOG",
+            "link": "https://www.youtube.com/watch?v=EK7aDXU2ojM",
+            "percent": 100,
+            "hz": 240
+        }
+        }
+    ]
+}

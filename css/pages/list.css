@@ -77,6 +77,11 @@
 .page-list .level-container .level .records tr td:not(:last-child) {
     padding-right: 1rem;
 }
+.page-list .level-container .level .records .user {
+    width: 100%;
+}
+    text-align: end;
+}
 .page-list .meta-container .og a:hover,
 .page-list .level-container .level .records a:hover {
     text-decoration: underline;

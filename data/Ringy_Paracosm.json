@@ -13,19 +13,19 @@
         {
             "user": "Ershov",
             "link": "https://www.youtube.com/watch?v=CSqjobfNMPs",
-            "percent": 100
+            "percent": 100,
             "hz": 360
         },
         {
             "user": "Gelforce",
             "link": "https://www.youtube.com/watch?v=oZQNlyjCOzk",
-            "percent": 100
+            "percent": 100,
             "hz": 288
         },
         {
             "user": "GhostingDash",
             "link": "https://www.youtube.com/watch?v=LAnfmvCdFfE",
-            "percent": 100
+            "percent": 100,
             "hz":
         }
     ]
